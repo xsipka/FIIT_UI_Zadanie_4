@@ -1,0 +1,39 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/*.parentLight{
+	-fx-background-color: #3c096c;  
+}
+
+.parentDark{
+	-fx-background-color: #240046;
+}
+
+.textButton{
+	-fx-background-color: #3c096c;  
+	-fx-text-fill:white;
+}
+
+.textButton:hover{
+  -fx-background-color: #10002b;     
+  -fx-text-fill:white;
+}*/
+
+.parentLight{
+	-fx-background-color: #373a46;  
+}
+
+.parentDark{
+	-fx-background-color: #232632;
+}
+
+.textButton{
+	-fx-background-color: #373a46;  
+	-fx-text-fill:white;
+}
+
+.textButton:hover{
+  -fx-background-color: #101820FF;     
+  -fx-text-fill:white;
+}
+
+
+

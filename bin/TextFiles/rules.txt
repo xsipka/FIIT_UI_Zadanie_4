@@ -1,0 +1,127 @@
+Druhyrodiè1
+?X je rodiè ?Y,manželia ?X ?Z
+pridaj ?Z je rodiè ?Y
+
+Druhyrodiè2
+?X je rodiè ?Y,manželia ?Z ?X
+pridaj ?Z je rodiè ?Y
+
+Druhyrodiè3
+?Y je syn ?X,?Y a ?Z su surodenci
+pridaj ?X je rodiè ?Z
+
+Druhyrodiè4
+?Y je syn ?X,?Z a ?Y su surodenci
+pridaj ?X je rodiè ?Z
+
+Druhyrodiè5
+?Y je dcéra ?X,?Z a ?Y su surodenci
+pridaj ?X je rodiè ?Z
+
+Druhyrodiè6
+?Y je dcéra ?X,?Y a ?Z su surodenci
+pridaj ?X je rodiè ?Z
+
+Syn
+?X je rodiè ?Y,muž ?Y
+pridaj ?Y je syn ?X
+
+Dcéra
+?X je rodiè ?Y,žena ?Y
+pridaj ?Y je dcéra ?X
+
+Manzelia
+?X je rodiè ?Y,?Z je rodiè ?Y,<> ?X ?Z
+pridaj manželia ?X ?Z
+
+Dedko
+?X je rodiè ?Y,?Y je rodiè ?Z,muž ?X
+pridaj ?X je dedko ?Z
+
+Babka
+?X je rodiè ?Y,?Y je rodiè ?Z,žena ?X
+pridaj ?X je babka ?Z
+
+Otec1
+?X je rodiè ?Y,muž ?X
+pridaj ?X je otec ?Y
+
+Otec2
+?X je syn ?Y,muž ?Y
+pridaj ?Y je otec ?X
+
+Otec3
+?X je dcéra ?Y,muž ?Y
+pridaj ?Y je otec ?X
+
+Otec4
+?X je otec ?Y,muž ?X,?Y a ?Z su surodenci
+pridaj ?X je otec ?Z
+
+Otec5
+?X je otec ?Y,muž ?X,?Z a ?Y su surodenci
+pridaj ?X je otec ?Z
+
+Matka1
+?X je rodiè ?Y,žena ?X
+pridaj ?X je matka ?Y
+
+Matka2
+?X je syn ?Y,žena ?Y
+pridaj ?Y je matka ?X
+
+Matka3
+?X je dcéra ?Y,žena ?Y
+pridaj ?Y je matka ?X
+
+Matka4
+?X je matka ?Y,žena ?X,?Y a ?Z su surodenci
+pridaj ?X je matka ?Z
+
+Matka5
+?X je matka ?Y,žena ?X,?Z a ?Y su surodenci
+pridaj ?X je matka ?Z
+
+Matka6
+?X je otec ?Y,manželia ?X ?Z,žena ?Z
+pridaj ?Z je matka ?Y
+
+Matka7
+?X je otec ?Y,manželia ?Z ?X,žena ?Z
+pridaj ?Z je matka ?Y
+
+Surodenci1
+?X je rodiè ?Y,?X je rodiè ?Z,<> ?Y ?Z
+pridaj ?Y a ?Z su surodenci
+
+Surodenci2
+?Y je brat ?Z,<> ?Y ?Z
+pridaj ?Y a ?Z su surodenci
+
+Surodenci3
+?Y je sestra ?Z,<> ?Y ?Z
+pridaj ?Y a ?Z su surodenci
+
+Brat
+?Y a ?Z su surodenci,muž ?Y
+pridaj ?Y je brat ?Z
+
+Sestra
+?Y a ?Z su surodenci,žena ?Y
+pridaj ?Y je sestra ?Z
+
+Stryko
+?Y je brat ?Z,?Z je rodiè ?X
+pridaj ?Y je stryko ?X,sprava ?X ma stryka
+
+Teta
+?Y je sestra ?Z,?Z je rodiè ?X
+pridaj ?Y je teta ?X,sprava ?X ma tetu
+
+Bratranec1
+?Y je stryko ?X,?Y je rodiè ?Z,muž ?Z
+pridaj ?Z je bratranec ?X,sprava ?Z je bratranec ?X
+
+Bratranec2
+?Y je teta ?X,?Y je rodiè ?Z,muž ?Z
+pridaj ?Z je bratranec ?X,sprava ?Z je bratranec ?X

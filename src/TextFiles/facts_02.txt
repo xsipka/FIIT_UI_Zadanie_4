@@ -1,0 +1,12 @@
+žena Milada
+Milada je rodiè Jarmila
+Milada je rodiè Ezechiel
+žena Jarmila
+muž Ezechiel
+muž Alex
+žena Blažena
+manželia Alex Jarmila
+Ezechiel je rodiè Vavrinec
+Blažena je rodiè Vavrinec
+Valér je syn Alex
+Miloš je brat Valér

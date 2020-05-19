@@ -1,0 +1,67 @@
+FIAT1
+typ karoserie ?X
+pridaj karoseria ?X
+
+FIAT2
+karoseria sedan,pocet dveri ?X
+pridaj sedan ?X
+
+FIAT3
+sedan 5
+pridaj vybrany Fiat Croma,sprava Fiat Croma
+
+FIAT4
+sedan 4,pohanana naprava ?X
+pridaj naprava ?X
+
+FIAT5
+naprava predna
+pridaj vybrany Fiat Tempra,sprava Fiat Tempra
+
+FIAT6
+naprava zadna
+pridaj vybrany Fiat Mirafiorri,sprava Fiat Mirafiorri
+
+FIAT7
+karoseria hatchback,pocet dveri ?X
+pridaj hatchback ?X
+
+FIAT8
+hatchback 3,predna maska ?X
+pridaj 3 maska ?X
+
+FIAT9
+3 maska ano
+pridaj vybrany Fiat Tipo3,sprava Fiat Tipo3
+
+FIAT10
+3 maska nie
+pridaj vybrany Fiat Punto3,sprava Fiat Punto3
+
+FIAT11
+3 maska mriezka
+pridaj vybrany Fiat Panda3,sprava Fiat Panda3
+
+FIAT12
+hatchback 5,predna maska ?X
+pridaj 5 maska ?X
+
+FIAT13
+5 maska ano
+pridaj vybrany Fiat Tipo5,sprava Fiat Tipo5
+
+FIAT14
+5 maska nie
+pridaj vybrany Fiat Punto5,sprava Fiat Punto5
+
+FIAT15
+5 maska mriezka,ma ?X
+pridaj ?X
+
+FIAT16
+integrovane svetla
+pridaj vybrany Fiat Uno5,sprava Fiat Uno5
+
+FIAT17
+okruhle svetla
+pridaj vybrany Fiat Ritmo5,sprava Fiat Ritmo5

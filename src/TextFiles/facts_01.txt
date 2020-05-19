@@ -1,0 +1,15 @@
+Peter je rodiè Jano
+Peter je rodiè Vlado
+manželia Peter Eva
+Vlado je rodiè Maria
+Vlado je rodiè Viera
+muž Peter
+muž Jano
+muž Vlado
+žena Maria
+žena Viera
+žena Eva
+muž Alfonz
+žena Edita
+Alfonz je rodiè Peter
+Edita je rodiè Peter
